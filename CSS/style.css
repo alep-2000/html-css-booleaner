@@ -24,7 +24,7 @@ h1{
     padding-left: 10px;
 }
 /* Fine Titolo */
-/* Paragrafo */
+/* Paragrafo1 */
 p{
 padding-left: 10px;
 }
@@ -32,7 +32,7 @@ padding-left: 10px;
 .bool{
     color:#16a9e0;
 }
-/* Fine paragrafo */
+/* Fine paragrafo1 */
 /* Immagini */
 .img1{
     padding-top: 15px;
@@ -43,3 +43,20 @@ padding-left: 10px;
     padding-top: 15px;
 }
 /* Fine immagini */
+/* Paragrafo2 */
+.paragraph{
+    margin-top: 15px;
+    font-size: 22px;
+}
+
+.frase{
+    background-color: gold;
+}
+/* Fine paragrafo2 */
+/* Lista */
+.lista{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+/* Fine Lista */
