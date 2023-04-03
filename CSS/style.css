@@ -15,6 +15,31 @@
 #logo{
     width: 150px;
     padding-top: 90px;
-    padding-left: 5px;
+    padding-left: 10px;
 }
 /* Fine Logo */
+/* Titolo */
+h1{
+    font-size: 60px;
+    padding-left: 10px;
+}
+/* Fine Titolo */
+/* Paragrafo */
+p{
+padding-left: 10px;
+}
+
+.bool{
+    color:#16a9e0;
+}
+/* Fine paragrafo */
+/* Immagini */
+.img1{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.img2{
+    padding-top: 15px;
+}
+/* Fine immagini */
