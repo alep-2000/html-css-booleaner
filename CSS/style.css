@@ -60,3 +60,22 @@ padding-left: 10px;
     font-size: 20px;
 }
 /* Fine Lista */
+/* Tabella */
+#tabella{
+    padding-top: 15px;
+    width: 100%;
+}
+
+.title{
+    background-color: blue;
+    color: white;
+}
+
+.riga1{
+    background-color: #16a9e0;
+}
+
+.riga3{
+    background-color: #16a9e0;
+}
+/* Fine Tabella */
