@@ -29,6 +29,10 @@ p{
 padding-left: 10px;
 }
 
+.color{
+    color: grey;
+}
+
 .bool{
     color:#16a9e0;
 }
@@ -62,8 +66,12 @@ padding-left: 10px;
 /* Fine Lista */
 /* Tabella */
 #tabella{
-    padding-top: 15px;
     width: 100%;
+    border-collapse: collapse;
+}
+
+.table{
+    padding-top: 15px;
 }
 
 .title{
@@ -88,3 +96,35 @@ padding-left: 10px;
 .frase{
     background-color: gold;
 }
+/* Fine Paragraph1 */
+/* Title1 */
+h3{
+    color: grey;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+/* Fine Title1 */
+/* Img footer */
+.img-footer{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.img-footer1{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 300px;
+    padding-top: 0;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+}
+
+.mid-title1{
+    color: white;
+}
+/* Fine Img footer */
