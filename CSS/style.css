@@ -1,0 +1,20 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+/* Sfondo */
+.background{
+    height: 150px;
+    background-color: rgb(0, 200, 255);
+    background-image: url(../img/pattern.png);
+}
+/* Fine sfondo */
+/* Logo */
+#logo{
+    width: 150px;
+    padding-top: 90px;
+    padding-left: 5px;
+}
+/* Fine Logo */
