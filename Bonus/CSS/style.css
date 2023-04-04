@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+ /* Sfondo */
+ .background{
+     height: 150px;
+     background-color: rgb(0, 200, 255);
+     background-image: url(../img/pattern.png);
+ }
+ /* Fine sfondo */
+ /* Logo */
+ #logo{
+     width: 150px;
+     margin-top: 90px;
+     margin-left: 10px;
+ }
+ /* Fine Logo */
+ /* Titolo */
+ h1{
+     font-size: 60px;
+     margin-left: 10px;
+ }
+ /* Fine Titolo */
+ /* Paragrafo1 */
+ p{
+     margin-left: 10px;
+ }
+ 
+ .color{
+     color: grey;
+ }
+ 
+ .bool{
+     color:#16a9e0;
+ }
+ /* Fine paragrafo1 */
+ /* Immagini */
+ .img1{
+    width: 52%;
+     margin-top: 15px;
+     margin-left: 10px;
+ }
+ 
+ .img2{
+    width: 45%;
+     margin-top: 15px;
+ }
+ 
+ .caption{
+     font-size: 13px;
+ }
+ /* Fine immagini */
+ /* Paragrafo2 */
+ .paragraph{
+     margin-top: 15px;
+     font-size: 18px;
+ }
+ 
+ .frase{
+     background-color: gold;
+ }
+ /* Fine paragrafo2 */
+ /* Lista */
+ .lista{
+     margin-left: 20px;
+     margin-top: 15px;
+     font-size: 20px;
+ }
+ /* Fine Lista */
+ /* Tabella */
+ .table{
+     width: 100%;
+     border-collapse: collapse;
+     margin-left: 15px;
+     margin-top: 15px;
+ }
+ 
+ .title{
+     background-color: blue;
+     color: white;
+ }
+ 
+ .text{
+     width: 50%;
+ }
+
+ .td{
+    font-size: 18px;
+ }
+ 
+ .riga1{
+     background-color: #16a9e0;
+ }
+ 
+ .riga3{
+     background-color: #16a9e0;
+ }
+ /* Fine Tabella */
+ /* Paragraph1 */
+ .paragraph1{
+     margin-top: 15px;
+     font-size: 18px;
+ }
+ 
+ .frase{
+     background-color: gold;
+ }
+ /* Fine Paragraph1 */
+ /* Title1 */
+ h3{
+     color: grey;
+     margin-top: 30px;
+     margin-left: 10px;
+ }
+ /* Fine Title1 */
+ /* Img footer */
+ .img-footer{
+     background-image: url(../img/monitor.jpg);
+     width: 250px;
+     height: 200px;
+     margin-top: 30px;
+     margin-left: 10px;
+     background-repeat: no-repeat;
+     color: white;
+ }
+ 
+ .img-footer1{
+     background-image: url(../img/graph.jpg);
+     width: 250px;
+     height: 200px;
+     margin-top: 15px;
+     margin-left: 10px;
+     background-repeat: no-repeat;
+     color: white;
+ }
+ 
+.container{
+    margin: 0 10%;
+}
+
+ /* Fine Img footer */
+ 
