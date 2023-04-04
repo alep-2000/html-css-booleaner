@@ -14,19 +14,19 @@
 /* Logo */
 #logo{
     width: 150px;
-    padding-top: 90px;
-    padding-left: 10px;
+    margin-top: 90px;
+    margin-left: 10px;
 }
 /* Fine Logo */
 /* Titolo */
 h1{
     font-size: 60px;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 /* Fine Titolo */
 /* Paragrafo1 */
 p{
-padding-left: 10px;
+    margin-left: 10px;
 }
 
 .color{
@@ -39,12 +39,16 @@ padding-left: 10px;
 /* Fine paragrafo1 */
 /* Immagini */
 .img1{
-    padding-top: 15px;
-    padding-left: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
 }
 
 .img2{
-    padding-top: 15px;
+    margin-top: 15px;
+}
+
+.caption{
+    font-size: 13px;
 }
 /* Fine immagini */
 /* Paragrafo2 */
@@ -71,12 +75,18 @@ padding-left: 10px;
 }
 
 .table{
-    padding-top: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
 }
 
 .title{
     background-color: blue;
     color: white;
+    
+}
+
+.text{
+    width: 50%;
 }
 
 .riga1{
@@ -100,8 +110,8 @@ padding-left: 10px;
 /* Title1 */
 h3{
     color: grey;
-    padding-top: 30px;
-    padding-left: 10px;
+    margin-top: 30px;
+    margin-left: 10px;
 }
 /* Fine Title1 */
 /* Img footer */
